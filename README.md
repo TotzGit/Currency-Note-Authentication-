@@ -1,1 +1,1 @@
-# Currency-Note-Authentication-
+Currency authentication is a critical application addressing the serious issue of counterfeit notes in circulation. This report presents a comprehensive overview of developing a currency note authentication system using Python and OpenCV, detailing methodologies, implementation approaches, and performance analysis. Such systems have become increasingly important as counterfeiting techniques grow more sophisticated, threatening economic stability and causing financial losses.
